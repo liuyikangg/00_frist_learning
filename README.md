@@ -1,2 +1,2 @@
 # 00_frist_learning
-Create this project to learn how to use GITHUB and start learning PYTHON
+Create this project to learn how to use github and start learning python
